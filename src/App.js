@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Weather></Weather>
-      Hello  2
+      Hello  4
 
     </div>
   );
